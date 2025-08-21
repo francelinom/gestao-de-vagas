@@ -8,6 +8,7 @@ public class GestaoDeVagasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestaoDeVagasApplication.class, args);
+        System.out.println("Olá Mundo!");
 	}
 
 }
