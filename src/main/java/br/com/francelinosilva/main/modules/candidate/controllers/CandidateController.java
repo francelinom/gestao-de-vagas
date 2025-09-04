@@ -1,6 +1,6 @@
 package br.com.francelinosilva.main.modules.candidate.controllers;
 
-import br.com.francelinosilva.main.modules.candidate.CandidateEntity;
+import br.com.francelinosilva.main.modules.candidate.entities.CandidateEntity;
 import br.com.francelinosilva.main.modules.candidate.useCase.CreateCandidateUseCase;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

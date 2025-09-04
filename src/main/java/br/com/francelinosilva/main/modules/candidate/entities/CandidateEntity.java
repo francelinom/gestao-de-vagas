@@ -1,4 +1,4 @@
-package br.com.francelinosilva.main.modules.candidate;
+package br.com.francelinosilva.main.modules.candidate.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
