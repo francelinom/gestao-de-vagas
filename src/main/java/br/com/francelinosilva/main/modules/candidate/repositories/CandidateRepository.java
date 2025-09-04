@@ -1,4 +1,4 @@
-package br.com.francelinosilva.main.modules.candidate.repository;
+package br.com.francelinosilva.main.modules.candidate.repositories;
 
 import br.com.francelinosilva.main.modules.candidate.entities.CandidateEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
